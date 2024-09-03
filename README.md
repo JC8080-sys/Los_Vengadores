@@ -8,3 +8,6 @@ Pueden hacer lo que quieran...
 ##One Piece
 -luffy
 -zoro
+-nami
+-ussop
+
